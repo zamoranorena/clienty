@@ -20,3 +20,5 @@ Todo.rtf
 .vagrant
 
 database/migrations/2017_09_15_181649_create_reasonvisits_table\.php
+
+clienty\.zip
